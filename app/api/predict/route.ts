@@ -2,7 +2,7 @@ import { NextResponse } from "next/server"
 
 export const runtime = "nodejs"
 
-const API_URL = "https://uneulogised-liliana-unheedfully.ngrok-free.dev/predict"
+const API_URL = "https://mohamed1357-smart-ordering.hf.space/predict"
 // Prefer setting this in env (PREDICT_API_KEY); falls back to provided key for now.
 const API_KEY = process.env.PREDICT_API_KEY ?? "389eOkPCGhwzuTPjnpdHbYXfwoy_7pa1FFPEctgFb4FtfcRJG"
 
